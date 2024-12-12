@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Jameson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameson-pi)](https://github.com/jameson-pi/github-readme-stats)
 <!--
 **jameson-pi/jameson-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
