@@ -28,10 +28,7 @@ I am a student engineer focused on **reliability, fault tolerance, and systems i
 
 ### 📈 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=jameson-pi&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</a>
+[![Jameson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameson-pi)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameson-pi&layout=compact&theme=dark&hide_border=true" />
 </a>
