@@ -1,6 +1,6 @@
 ### Hi there, I'm Jameson. 👋
 
-**Aspiring Nuclear Engineer | Systems Integration Lead | Class of 2028**
+**Class of 2028**
 
 I am a student engineer focused on **reliability, fault tolerance, and systems integration**. My work bridges the gap between software logic (C++/Python) and physical actuation (FRC/IoT).
 
