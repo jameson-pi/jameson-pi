@@ -2,7 +2,7 @@
 
 **Class of 2028**
 
-I am a student engineer focused on **reliability, fault tolerance, and systems integration**. My work bridges the gap between software logic (C++/Python) and physical actuation (FRC/IoT).
+I am a student focused on **reliability, ease of use, and systems integration**. My work bridges the gap between software logic (C++/Python) and physical actuation (FRC/IoT).
 
 ---
 
@@ -21,8 +21,8 @@ I am a student engineer focused on **reliability, fault tolerance, and systems i
 
 ### 🔭 Current Focus
 
-* **Systems Co-Lead @ FRC Team 6377:** Developing intake mechanisms and autonomous pathing logic for the **2026 "REBUILT"** season.
-* **Upcoming:** Preparing for research roles in Nuclear Engineering (Summer 2026).
+* **Controls Engineer @ FRC Team 6377:** Developing shooter mechanisms and autonomous pathing logic for the **2026 "REBUILT"** season.
+* **Upcoming:** Preparing for the Texas Academy of Mathematics and Science in August.
 
 ---
 
