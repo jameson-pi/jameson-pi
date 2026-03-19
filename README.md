@@ -6,25 +6,6 @@ I am a student focused on **reliability, ease of use, and systems integration**.
 
 ---
 
-### 🛠️ The Toolkit
-
-**Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Hardware & Systems:**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![FRC](https://img.shields.io/badge/FIRST_Robotics-0066B3?style=for-the-badge&logo=first&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🔭 Current Focus
-
-* **Controls Engineer @ FRC Team 6377:** Developing shooter mechanisms and autonomous pathing logic for the **2026 "REBUILT"** season.
-* **Upcoming:** Preparing for the Texas Academy of Mathematics and Science in August.
-
----
 
 ### 📈 GitHub Stats
 
@@ -34,9 +15,3 @@ I am a student focused on **reliability, ease of use, and systems integration**.
 </a>
 </div>
 
----
-
-### 📫 Connect
-* **Role:** Systems Co-Lead / Student Researcher
-* **Location:** Austin, TX
-* **Focus:** Nuclear Engineering / Robotics
